@@ -51,7 +51,7 @@ I'm always open to new ideas, collaborations, or just a good tech discussion. Fe
 
 ## 📊 My GitHub Journey
 
-[![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaridRadit&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)](https://github.com/FaridRadit)
+[![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faridradit04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)](https://github.com/Faridradit04)
 
 ---
 
