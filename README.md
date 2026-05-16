@@ -86,12 +86,6 @@ I am always open to collaboration, discussions, and new opportunities in technol
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farid%20Radityo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farid-radityo-suharman-0ab532211/)
 
----
 
-## GitHub Statistics
-
-[![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faridradit04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)](https://github.com/Faridradit04)
-
----
 
 > "Technology is built to solve problems, create opportunities, and improve the way people live and interact."
